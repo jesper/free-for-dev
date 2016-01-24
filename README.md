@@ -146,6 +146,7 @@ Table of Contents
 ## Automated Browser Testing
   * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes per month
   * [browserstack.com](https://www.browserstack.com/) — Manual and automated browser testing, free for Open Source
+  * [monkeytest.it](https://monkeytest.it) - Free automated website tester with curl friendly API
 
 ## Security and PKI
 
